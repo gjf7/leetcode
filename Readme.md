@@ -10,6 +10,8 @@
 
 #### [Binary Search](https://github.com/monster898/leetcode/tree/master/Binary_Search)
 
+[704.Binary-Search](https://github.com/monster898/leetcode/tree/master/Binary_Search/704.Binary-Search)
+
 - `Binary Processing`
 
 - `Binary Search by Value`
