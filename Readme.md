@@ -3,6 +3,7 @@
 #### [Two Pointers](https://github.com/monster898/leetcode/tree/master/Two_Pointers)
 
 - `Sliding window`
+  [438.Find-All-Anagrams-In-a-String](https://github.com/monster898/leetcode/tree/master/Two_Pointers/438.Find-All-Anagrams-In-a-String) (M)
 
 - `Sliding window: Distinct Characters`
 
@@ -10,7 +11,8 @@
 
 #### [Binary Search](https://github.com/monster898/leetcode/tree/master/Binary_Search)
 
-[704.Binary-Search](https://github.com/monster898/leetcode/tree/master/Binary_Search/704.Binary-Search)
+[704.Binary-Search](https://github.com/monster898/leetcode/tree/master/Binary_Search/704.Binary-Search) (E)
+[033.Search-In-Rotated-Sorted-Array](https://github.com/monster898/leetcode/tree/master/Binary_Search/033.Search-In-Rotated-Sorted-Array) (M-)
 
 - `Binary Processing`
 
