@@ -40,8 +40,10 @@ class Solution {
 
         if (size[pRoot] < size[qRoot]) {
             parents[pRoot] = qRoot;
+            size[qRoot] += size[pRoot];
         } else {
             parents[qRoot] = pRoot;
+            size[pRoot] += size[qRoot];
         }
         count -= 1;
     }

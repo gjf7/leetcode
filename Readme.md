@@ -42,6 +42,8 @@
 
 #### [Stack](https://github.com/monster898/leetcode/tree/master/Stack)
 
+[020.Valid-Parentheses](https://github.com/monster898/leetcode/tree/master/Stack/020.Valid-Parentheses) (E)
+
 - `montonic stack: next greater / smaller`
 
 #### [Deque](https://github.com/monster898/leetcode/tree/master/Deque)
@@ -75,3 +77,6 @@
 #### [Math](https://github.com/monster898/leetcode/tree/master/Math)
 
 #### [Greedy](https://github.com/monster898/leetcode/tree/master/Greedy)
+
+[055.Jump-Game](https://github.com/monster898/leetcode/tree/master/Greedy/055.Jump-Game) (M)  
+[054.Jump-Game-II](https://github.com/monster898/leetcode/tree/master/Greedy/054.Jump-Game-II) (M)
