@@ -30,6 +30,8 @@
 
 #### [Tree](https://github.com/monster898/leetcode/tree/master/Tree)
 
+[623.Add-One-Row-to-Tree](https://github.com/monster898/leetcode/tree/master/Tree/623.Add-One-Row-to-Tree) (M)
+
 - `Path in a tree`
 
 - `Serialization & Hashing`
@@ -43,6 +45,7 @@
 #### [Stack](https://github.com/monster898/leetcode/tree/master/Stack)
 
 [020.Valid-Parentheses](https://github.com/monster898/leetcode/tree/master/Stack/020.Valid-Parentheses) (E)
+[032.Longest-Valid-Parentheses](https://github.com/monster898/leetcode/tree/master/Stack/032.Longest-Valid-Parentheses) (H)
 
 - `montonic stack: next greater / smaller`
 
