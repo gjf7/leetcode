@@ -3,11 +3,13 @@
 #### [Two Pointers](https://github.com/monster898/leetcode/tree/master/Two_Pointers)
 
 - `Sliding window`  
-  [438.Find-All-Anagrams-In-a-String](https://github.com/monster898/leetcode/tree/master/Two_Pointers/438.Find-All-Anagrams-In-a-String) (M)
+  [438.Find-All-Anagrams-In-a-String](https://github.com/monster898/leetcode/tree/master/Two_Pointers/438.Find-All-Anagrams-In-a-String) (M)  
+  [209.Minimum-Size-Subarray-Sum](https//github.com/monster898/leetcode/tree/master/Two_Pointers/209.Minimum-Size-Subarray-Sum) (M)
 
 - `Sliding window: Distinct Characters`
 
-- `Two pointers for two seuqences`
+- `Two pointers for two seuqences`  
+  [986.Interval-List-Intersections](https://github.com/monster898/leetcode/Two_Pointers/986.Interval-List-Intersections) (M)
 
 #### [Binary Search](https://github.com/monster898/leetcode/tree/master/Binary_Search)
 
@@ -22,7 +24,8 @@
 
 #### [Hash Map](https://github.com/monster898/leetcode/tree/master/Hash)
 
-- `Hash+Prefix`
+- `Hash+Prefix`  
+  [930.Binary-Subarrays-With-Sum](https://github.com/monster898/leetcode/tree/master/Hash/930.Binary-Subarrays-With-Sum) (M)
 
 #### [Heap](https://github.com/monster898/leetcode/tree/master/Heap)
 
@@ -31,7 +34,8 @@
 #### [Tree](https://github.com/monster898/leetcode/tree/master/Tree)
 
 [623.Add-One-Row-to-Tree](https://github.com/monster898/leetcode/tree/master/Tree/623.Add-One-Row-to-Tree) (M)  
-[098.Validate-Binary-Search-Tree](https://github.com/monster898/leetcode/tree/master/Tree/098.Validate-Binary-Search-Tree) (M)
+[098.Validate-Binary-Search-Tree](https://github.com/monster898/leetcode/tree/master/Tree/098.Validate-Binary-Search-Tree) (M)  
+[222.Count-Complete-Tree-Nodes](https://github.com/monster898/leetcode/tree/master/222.Count-Complete-Tree-Nodes) (M+)
 
 - `Path in a tree`
 
@@ -79,6 +83,9 @@
 #### [Graph](https://github.com/monster898/leetcode/tree/master/Graph/)
 
 #### [Math](https://github.com/monster898/leetcode/tree/master/Math)
+
+- `Combinatorics`  
+  [046.Permutations](https://github.com/monster898/leetcode/tree/master/Math/046.Permutations) (M+)
 
 #### [Greedy](https://github.com/monster898/leetcode/tree/master/Greedy)
 
