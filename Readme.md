@@ -20,7 +20,8 @@
 
 [704.Binary-Search](https://github.com/monster898/leetcode/tree/master/Binary_Search/704.Binary-Search) (E)  
 [033.Search-In-Rotated-Sorted-Array](https://github.com/monster898/leetcode/tree/master/Binary_Search/033.Search-In-Rotated-Sorted-Array) (M-)  
-[069.Sqrtx](https://github.com/monster898/leetcode/tree/master/Binary_Search/069.Sqrtx) (E)
+[069.Sqrtx](https://github.com/monster898/leetcode/tree/master/Binary_Search/069.Sqrtx) (E)  
+[081.Search-in-Rotated-Sorted-Array-II](https://github.com/monster898/leetcode/tree/master/Binary_Search/081.Search-in-Rotated-Sorted-Array-II) (M)
 
 - `Binary Processing`
 
@@ -44,7 +45,7 @@
 [222.Count-Complete-Tree-Nodes](https://github.com/monster898/leetcode/tree/master/Tree/222.Count-Complete-Tree-Nodes) (M+)  
 [099.Recover-Binary-Search-Tree](https://github.com/monster898/leetcode/tree/master/Tree/099.Recover-Binary-Search-Tree) (H)
 
-- `Path in a tree`
+- `Path in a tree`  
   [124.Binary-Tree-Maximum-Path-Sum](https://github.com/monster898/leetcode/tree/master/Tree/124.Binary-Tree-Maximum-Path-Sum) (M)
 
 - `Serialization & Hashing`  
@@ -65,17 +66,26 @@
 
 - `montonic stack: next greater / smaller`
 
+- `parse expression`  
+  [071.Simplify-Path](https://github.com/monster898/leetcode/tree/master/Stack/071.Simplify-Path)
+
 #### [Deque](https://github.com/monster898/leetcode/tree/master/Deque)
 
 #### [Priority Queue](https://github.com/monster898/leetcode/tree/master/Priority_Queue)
 
 #### [DFS](https://github.com/monster898/leetcode/tree/master/DFS)
 
+[022.Generate-Parentheses](https://github.com/monster898/leetcode/tree/master/DFS/022.Generate-Parentheses) (M)  
+[079.Word-Search](https://github.com/monster898/leetcode/tree/master/DFS/079.Word-Search) (M)
+
 #### [BFS](https://github.com/monster898/leetcode/tree/master/BFS)
 
 #### [Trie](https://github.com/monster898/leetcode/tree/master/Trie)
 
 #### [Linked List](https://github.com/monster898/leetcode/tree/master/Linked_List)
+
+[002.Add-Two-Numbers](https://github.com/monster898/leetcode/tree/master/Math/002.Add-Two-Numbers) (M)  
+[092.Reverse-Linked-List-II](https://github.com/monster898/leetcode/tree/master/Linked_List/092.Reverse-Linked-List-II)
 
 #### [Dynamic Programming](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming)
 
@@ -87,9 +97,12 @@
 
 #### [Divide and Conquer](https://github.com/monster898/leetcode/tree/master/Divide_Conquer)
 
+[315.Count-of-Smaller-Numbers-After-Self](https://github.com/monster898/leetcode/tree/master/Divide_Conquer/315.Count-of-Smaller-Numbers-After-Self) (H)
+
 #### [String](https://github.com/monster898/leetcode/tree/master/String)
 
-[647.Palindromic-Substrings](https://github.com/monster898/leetcode/tree/master/String/647.Palindromic-Substrings) (M)
+[647.Palindromic-Substrings](https://github.com/monster898/leetcode/tree/master/String/647.Palindromic-Substrings) (M)  
+[005.Longest-Palindromic-Substring](https://github.com/monster898/leetcode/tree/master/String/005.Longest-Palindromic-Substring) (H)
 
 #### [Union Find](https://github.com/monster898/leetcode/tree/master/Union_Find)
 
@@ -101,7 +114,9 @@
 
 #### [Math](https://github.com/monster898/leetcode/tree/master/Math)
 
-[002.Add-Two-Numbers](https://github.com/monster898/leetcode/tree/master/Math/002.Add-Two-Numbers) (M)
+[002.Add-Two-Numbers](https://github.com/monster898/leetcode/tree/master/Math/002.Add-Two-Numbers) (M)  
+[043.Multiply-Strings](https://github.com/monster898/leetcode/tree/master/Math/043.Multiply-Strings) (M)  
+[089.Gray-Code](https://github.com/monster898/leetcode/tree/master/Math089.Gray-Code) (M+)
 
 - `Combinatorics`  
   [046.Permutations](https://github.com/monster898/leetcode/tree/master/Math/046.Permutations) (M+)
