@@ -6,7 +6,8 @@
 [015.3Sum](https://github.com/monster898/leetcode/tree/master/Two_Pointers/015.3Sum) (M)  
 [016.3Sum-Closet](https://github.com/monster898/leetcode/tree/master/Two_Pointers/016.3Sum-Closet) (M)  
 [018.4Sum](https://github.com/monster898/leetcode/tree/master/Two_Pointers/018.4Sum) (M)  
-[088.Merge-Sorted-Array](https://github.com/monster898/leetcode/tree/master/Two_Pointers/088.Merge-Sorted-Array) (M)
+[088.Merge-Sorted-Array](https://github.com/monster898/leetcode/tree/master/Two_Pointers/088.Merge-Sorted-Array) (M)  
+[165.Compare-Version-Numbers](https://github.com/monster898/leetcode/tree/master/Two_Pointers/165.Compare-Version-Numbers) (E)
 
 - `Sliding window`  
   [438.Find-All-Anagrams-In-a-String](https://github.com/monster898/leetcode/tree/master/Two_Pointers/438.Find-All-Anagrams-In-a-String) (M)  
@@ -129,6 +130,7 @@
 #### [Math](https://github.com/monster898/leetcode/tree/master/Math)
 
 [002.Add-Two-Numbers](https://github.com/monster898/leetcode/tree/master/Math/002.Add-Two-Numbers) (M)  
+[415.Add-Strings](https://github.com/monster898/leetcode/tree/master/Math/415.Add-Strings) (E)  
 [043.Multiply-Strings](https://github.com/monster898/leetcode/tree/master/Math/043.Multiply-Strings) (M)  
 [089.Gray-Code](https://github.com/monster898/leetcode/tree/master/Math089.Gray-Code) (M+)
 
