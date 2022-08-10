@@ -49,10 +49,12 @@
 [222.Count-Complete-Tree-Nodes](https://github.com/monster898/leetcode/tree/master/Tree/222.Count-Complete-Tree-Nodes) (M+)  
 [099.Recover-Binary-Search-Tree](https://github.com/monster898/leetcode/tree/master/Tree/099.Recover-Binary-Search-Tree) (H)  
 [1373.Maximum-Sum-Bst-in-Binary-Tree](https://github.com/monster898/leetcode/tree/master/Tree/1373.Maximum-Sum-Bst-in-Binary-Tree) (H)  
-[BS587.Tree-Sum-Count](https://github.com/monster898/leetcode/tree/master/Tree/BS587.Tree-Sum-Count) (M)
+[BS587.Tree-Sum-Count](https://github.com/monster898/leetcode/tree/master/Tree/BS587.Tree-Sum-Count) (M)  
+[102.Binary-Tree-Level-Order-Traversal](https://github.com/monster898/leetcode/tree/master/Tree/102.Binary-Tree-Level-Order-Traversal) (M)
 
 - `Path in a tree`  
-  [124.Binary-Tree-Maximum-Path-Sum](https://github.com/monster898/leetcode/tree/master/Tree/124.Binary-Tree-Maximum-Path-Sum) (M)
+  [124.Binary-Tree-Maximum-Path-Sum](https://github.com/monster898/leetcode/tree/master/Tree/124.Binary-Tree-Maximum-Path-Sum) (M)  
+  [112.Path-Sum](https://github.com/monster898/leetcode/tree/master/Tree/112.Path-Sum) (E)
 
 - `Serialization & Hashing`  
   [297.Serialize-and-Deserialize-Binary-Tree](https://github.com/monster898/leetcode/tree/master/Tree/297.Serialize-and-Deserialize-Binary-Tree) (H-)
