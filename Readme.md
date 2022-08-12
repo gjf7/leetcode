@@ -100,13 +100,19 @@
 #### [Linked List](https://github.com/monster898/leetcode/tree/master/Linked_List)
 
 [002.Add-Two-Numbers](https://github.com/monster898/leetcode/tree/master/Math/002.Add-Two-Numbers) (M)  
-[092.Reverse-Linked-List-II](https://github.com/monster898/leetcode/tree/master/Linked_List/092.Reverse-Linked-List-II)
+[206.Reverse-Linked-List](https://github.com/monster898/leetcode/tree/master/Linked_List/206.Reverse-Linked-List) (E)  
+[092.Reverse-Linked-List-II](https://github.com/monster898/leetcode/tree/master/Linked_List/092.Reverse-Linked-List-II) (M)  
+[141.Linked-List-Cycle](https://github.com/monster898/leetcode/tree/master/Linked_List/141.Linked-List-Cycle) (E)
 
 #### [Dynamic Programming](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming)
 
 -`基本型I`
 
 [198.House-Robber](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/198.House-Robber) (E)
+
+- `maximum subarray`  
+  [053.Maximum-Subarray](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/053.Maximum-Subarray) (M)  
+  [121.Best-Time-To-Buy-And-Sell-Stock](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/121.Best-Time-To-Buy-And-Sell-Stock) (M)
 
 #### [Bit Manipulation](https://github.com/monster898/leetcode/tree/master/Bit_Manipulation)
 
