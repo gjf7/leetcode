@@ -24,14 +24,14 @@
 [704.Binary-Search](https://github.com/monster898/leetcode/tree/master/Binary_Search/704.Binary-Search) (E)  
 [033.Search-In-Rotated-Sorted-Array](https://github.com/monster898/leetcode/tree/master/Binary_Search/033.Search-In-Rotated-Sorted-Array) (M-)  
 [069.Sqrtx](https://github.com/monster898/leetcode/tree/master/Binary_Search/069.Sqrtx) (E)  
-[081.Search-in-Rotated-Sorted-Array-II](https://github.com/monster898/leetcode/tree/master/Binary_Search/081.Search-in-Rotated-Sorted-Array-II) (M)  
-[347.Top-K-Frequent-Elements](https://github.com/monster898/leetcode/tree/master/Binary_Search/347.Top-K-Frequent-Elements) (M)
+[081.Search-in-Rotated-Sorted-Array-II](https://github.com/monster898/leetcode/tree/master/Binary_Search/081.Search-in-Rotated-Sorted-Array-II) (M)
 
 - `Binary Processing`
 
 - `Binary Search by Value`
 
-  - `Find K-th Element`
+  - `Find K-th Element`  
+    [347.Top-K-Frequent-Elements](https://github.com/monster898/leetcode/tree/master/Binary_Search/347.Top-K-Frequent-Elements) (M)
 
 #### [Hash Map](https://github.com/monster898/leetcode/tree/master/Hash)
 
