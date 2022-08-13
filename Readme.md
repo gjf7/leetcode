@@ -60,6 +60,8 @@
   [297.Serialize-and-Deserialize-Binary-Tree](https://github.com/monster898/leetcode/tree/master/Tree/297.Serialize-and-Deserialize-Binary-Tree) (H-)
 
 - `Tree & Sequence`
+  [105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal](https://github.com/monster898/leetcode/tree/master/Tree/105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal) (H-)  
+  [106.Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal](https://github.com/monster898/leetcode/tree/master/Tree/106.Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal) (M+)
 
 - `LCA`  
    [236.Lowest-Common-Ancestor-of-a-Binary-Tree](https://github.com/monster898/leetcode/tree/master/Tree/236.Lowest-Common-Ancestor-of-a-Binary-Tree) (M+)
