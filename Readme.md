@@ -50,7 +50,8 @@
 [099.Recover-Binary-Search-Tree](https://github.com/monster898/leetcode/tree/master/Tree/099.Recover-Binary-Search-Tree) (H)  
 [1373.Maximum-Sum-Bst-in-Binary-Tree](https://github.com/monster898/leetcode/tree/master/Tree/1373.Maximum-Sum-Bst-in-Binary-Tree) (H)  
 [BS587.Tree-Sum-Count](https://github.com/monster898/leetcode/tree/master/Tree/BS587.Tree-Sum-Count) (M)  
-[102.Binary-Tree-Level-Order-Traversal](https://github.com/monster898/leetcode/tree/master/Tree/102.Binary-Tree-Level-Order-Traversal) (M)
+[102.Binary-Tree-Level-Order-Traversal](https://github.com/monster898/leetcode/tree/master/Tree/102.Binary-Tree-Level-Order-Traversal) (M)  
+[129.Sum-Root-to-Leaf-Numbers](https://github.com/monster898/leetcode/tree/master/Tree/129.Sum-Root-to-Leaf-Numbers) (E)
 
 - `Path in a tree`  
   [124.Binary-Tree-Maximum-Path-Sum](https://github.com/monster898/leetcode/tree/master/Tree/124.Binary-Tree-Maximum-Path-Sum) (M)  
@@ -108,9 +109,12 @@
 
 #### [Dynamic Programming](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming)
 
--`基本型I`
+- `基本型I`
 
 [198.House-Robber](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/198.House-Robber) (E)
+
+- `基本型II`  
+   [300.Longest-Increasing-Subsequence](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/300.Longest-Increasing-Subsequence) (M+)
 
 - `maximum subarray`  
   [053.Maximum-Subarray](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/053.Maximum-Subarray) (M)  
