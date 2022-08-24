@@ -116,6 +116,9 @@
 - `基本型II`  
    [300.Longest-Increasing-Subsequence](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/300.Longest-Increasing-Subsequence) (M+)
 
+- `背包型`  
+  [322.Coin-Change](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/322.Coin-Change) (M+)
+
 - `maximum subarray`  
   [053.Maximum-Subarray](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/053.Maximum-Subarray) (M)  
   [121.Best-Time-To-Buy-And-Sell-Stock](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/121.Best-Time-To-Buy-And-Sell-Stock) (M)
