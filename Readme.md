@@ -7,7 +7,8 @@
 [016.3Sum-Closet](https://github.com/monster898/leetcode/tree/master/Two_Pointers/016.3Sum-Closet) (M)  
 [018.4Sum](https://github.com/monster898/leetcode/tree/master/Two_Pointers/018.4Sum) (M)  
 [088.Merge-Sorted-Array](https://github.com/monster898/leetcode/tree/master/Two_Pointers/088.Merge-Sorted-Array) (M)  
-[165.Compare-Version-Numbers](https://github.com/monster898/leetcode/tree/master/Two_Pointers/165.Compare-Version-Numbers) (E)
+[165.Compare-Version-Numbers](https://github.com/monster898/leetcode/tree/master/Two_Pointers/165.Compare-Version-Numbers) (E)  
+[056.Merge-Intervals](https://github.com/monster898/leetcode/tree/master/Two_Pointers/056.Merge-Intervals) (M)
 
 - `Sliding window`  
   [438.Find-All-Anagrams-In-a-String](https://github.com/monster898/leetcode/tree/master/Two_Pointers/438.Find-All-Anagrams-In-a-String) (M)  
@@ -110,6 +111,9 @@
 
 #### [Dynamic Programming](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming)
 
+[062.Unique-Paths](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/062.Unique-Paths) (E)  
+[063.Unique-Paths-II](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/063.Unique-Paths-II) (M)
+
 - `基本型I`
 
 [198.House-Robber](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/198.House-Robber) (E)
@@ -119,6 +123,9 @@
 
 - `背包型`  
   [322.Coin-Change](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/322.Coin-Change) (M+)
+
+- `双序列型`  
+   [718.Maximum-Length-of-Repeated-Subarray](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/718.Maximum-Length-of-Repeated-Subarray) (M)
 
 - `maximum subarray`  
   [053.Maximum-Subarray](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/053.Maximum-Subarray) (M)  
