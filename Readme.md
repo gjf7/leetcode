@@ -162,6 +162,11 @@
 - `Parenthesis`  
   [921.Minimum-Add-To-Make-Parentheses-Valid](https://github/monster898/leetcode/tree/master/Greedy/921.Minimum-Add-To-Make-Parentheses-Valid) (M)
 
+#### [Design](https://github.com/monster898/leetcode/tree/master/Design)
+
+- `Linked List`  
+   [146.LRU-Cache](https://github.com/monster898/leetcode/tree/master/Design/146.LRU-Cache)
+
 #### [Others](https://github.com/monster898/leetcode/tree/master/Others)
 
 [54.Spiral-Matrix](https://github.com/monster898/leetcode/tree/master/Others/54.Spiral-Matrix) (M)  
