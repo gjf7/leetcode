@@ -92,7 +92,8 @@
 [022.Generate-Parentheses](https://github.com/monster898/leetcode/tree/master/DFS/022.Generate-Parentheses) (M)  
 [079.Word-Search](https://github.com/monster898/leetcode/tree/master/DFS/079.Word-Search) (M)  
 [200.Number-of-Islands](https://github.com/monster898/leetcode/tree/master/DFS/200.Number-of-Islands) (M)  
-[494.Target-Sum](https://github.com/monster898/leetcode/tree/master/DFS/494.Target-Sum) (M)
+[494.Target-Sum](https://github.com/monster898/leetcode/tree/master/DFS/494.Target-Sum) (M)  
+[695.Max-Area-of-Island](https://github.com/monster898/leetcode/tree/master/DFS/695.Max-Area-of-Island)
 
 #### [BFS](https://github.com/monster898/leetcode/tree/master/BFS)
 
