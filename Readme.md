@@ -14,7 +14,7 @@
   [438.Find-All-Anagrams-In-a-String](https://github.com/monster898/leetcode/tree/master/Two_Pointers/438.Find-All-Anagrams-In-a-String) (M)  
   [209.Minimum-Size-Subarray-Sum](https://github.com/monster898/leetcode/tree/master/Two_Pointers/209.Minimum-Size-Subarray-Sum) (M)
 
-- `Sliding window: Distinct Characters`
+- `Sliding window: Distinct Characters`  
   [003.Longest-Substring-Without-Repeating-Character](https://github.com/monster898/leetcode/tree/master/Two_Pointers/003.Longest-Substring-Without-Repeating-Character) (M)
 
 - `Two pointers for two seuqences`  
@@ -108,6 +108,7 @@
 [206.Reverse-Linked-List](https://github.com/monster898/leetcode/tree/master/Linked_List/206.Reverse-Linked-List) (E)  
 [092.Reverse-Linked-List-II](https://github.com/monster898/leetcode/tree/master/Linked_List/092.Reverse-Linked-List-II) (M)  
 [141.Linked-List-Cycle](https://github.com/monster898/leetcode/tree/master/Linked_List/141.Linked-List-Cycle) (E)
+[025.Reverse-Nodes-In-k-Group](https://github.com/monster898/leetcode/tree/master/Linked_List/025.Reverse-Nodes-In-k-Group) (H)
 
 #### [Dynamic Programming](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming)
 
