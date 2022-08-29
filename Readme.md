@@ -74,7 +74,8 @@
 
 [020.Valid-Parentheses](https://github.com/monster898/leetcode/tree/master/Stack/020.Valid-Parentheses) (E)  
 [032.Longest-Valid-Parentheses](https://github.com/monster898/leetcode/tree/master/Stack/032.Longest-Valid-Parentheses) (H)  
-[636.Exclusive-Time-of-Functions](https://github.com/monster898/leetcode/tree/master/Stack/636.Exclusive-Time-of-Functions) (H-)
+[636.Exclusive-Time-of-Functions](https://github.com/monster898/leetcode/tree/master/Stack/636.Exclusive-Time-of-Functions) (H-)  
+[155.Min-Stack](https://github.com/monster898/leetcode/tree/master/Stack/155.Min-Stack)
 
 - `montonic stack: next greater / smaller`  
    [042.Trapping-Rain-Water](https://github.com/monster898/leetcode/tree/master/Stack/042.Trapping-Rain-Water) (H)  
