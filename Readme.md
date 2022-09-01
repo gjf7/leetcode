@@ -181,5 +181,7 @@
 
 #### [Others](https://github.com/monster898/leetcode/tree/master/Others)
 
+[048.Rotate-Image](https://github.com/monster898/leetcode/tree/master/Others/048.Rotate-Image) (M+)  
 [54.Spiral-Matrix](https://github.com/monster898/leetcode/tree/master/Others/54.Spiral-Matrix) (M)  
-[59.Spiral-Matrix-II](https://github.com/monster898/leetcode/tree/master/Others/59.Spiral-Matrix-II) (M)
+[59.Spiral-Matrix-II](https://github.com/monster898/leetcode/tree/master/Others/59.Spiral-Matrix-II) (M)  
+[1556.Thousand-Separator](https://github.com/monster898/leetcode/tree/master/Others/1556.Thousand-Separator) (E)
