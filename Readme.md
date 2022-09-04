@@ -64,9 +64,9 @@
 - `Serialization & Hashing`  
   [297.Serialize-and-Deserialize-Binary-Tree](https://github.com/monster898/leetcode/tree/master/Tree/297.Serialize-and-Deserialize-Binary-Tree) (H-)
 
-- `Tree & Sequence`
-  [105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal](https://github.com/monster898/leetcode/tree/master/Tree/105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal) (H-)  
-  [106.Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal](https://github.com/monster898/leetcode/tree/master/Tree/106.Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal) (M+)
+- `Tree & Sequence`  
+  [105.Construct-Binary-Tree-From-Preorder-and-Inorder-Traversal](https://github.com/monster898/leetcode/tree/master/Tree/105.Construct-Binary-Tree-From-Preorder-and-Inorder-Traversal) (H-)  
+  [106.Construct-Binary-Tree-From-Inorder-and-Postorder-Traversal](https://github.com/monster898/leetcode/tree/master/Tree/106.Construct-Binary-Tree-From-Inorder-and-Postorder-Traversal) (M+)
 
 - `LCA`  
    [236.Lowest-Common-Ancestor-of-a-Binary-Tree](https://github.com/monster898/leetcode/tree/master/Tree/236.Lowest-Common-Ancestor-of-a-Binary-Tree) (M+)
@@ -134,7 +134,8 @@
   [322.Coin-Change](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/322.Coin-Change) (M+)
 
 - `双序列型`  
-   [718.Maximum-Length-of-Repeated-Subarray](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/718.Maximum-Length-of-Repeated-Subarray) (M)
+   [718.Maximum-Length-of-Repeated-Subarray](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/718.Maximum-Length-of-Repeated-Subarray) (M)  
+   [1143.Longest-Common-Subsequence](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/1143.Longest-Common-Subsequence) (M+)
 
 - `maximum subarray`  
   [053.Maximum-Subarray](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/053.Maximum-Subarray) (M)  
