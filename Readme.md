@@ -53,7 +53,9 @@
 [BS587.Tree-Sum-Count](https://github.com/monster898/leetcode/tree/master/Tree/BS587.Tree-Sum-Count) (M)  
 [102.Binary-Tree-Level-Order-Traversal](https://github.com/monster898/leetcode/tree/master/Tree/102.Binary-Tree-Level-Order-Traversal) (M)  
 [129.Sum-Root-to-Leaf-Numbers](https://github.com/monster898/leetcode/tree/master/Tree/129.Sum-Root-to-Leaf-Numbers) (E)  
-[199.Binary-Tree-Right-Side-View](https://github.com/monster898/leetcode/tree/master/Tree/199.Binary-Tree-Right-Side-View) (M)
+[199.Binary-Tree-Right-Side-View](https://github.com/monster898/leetcode/tree/master/Tree/199.Binary-Tree-Right-Side-View) (M)  
+[101.Symmetric-Tree](https://github.com/monster898/leetcode/tree/master/Tree/101.Symmetric-Tree) (E)  
+[572.Subtree-of-Another-Tree](https://github.com/monster898/leetcode/tree/master/Tree/572.Subtree-of-Another-Tree) (M)
 
 - `Path in a tree`  
   [124.Binary-Tree-Maximum-Path-Sum](https://github.com/monster898/leetcode/tree/master/Tree/124.Binary-Tree-Maximum-Path-Sum) (M)  
@@ -110,7 +112,8 @@
 [002.Add-Two-Numbers](https://github.com/monster898/leetcode/tree/master/Math/002.Add-Two-Numbers) (M)  
 [206.Reverse-Linked-List](https://github.com/monster898/leetcode/tree/master/Linked_List/206.Reverse-Linked-List) (E)  
 [092.Reverse-Linked-List-II](https://github.com/monster898/leetcode/tree/master/Linked_List/092.Reverse-Linked-List-II) (M)  
-[141.Linked-List-Cycle](https://github.com/monster898/leetcode/tree/master/Linked_List/141.Linked-List-Cycle) (E)
+[141.Linked-List-Cycle](https://github.com/monster898/leetcode/tree/master/Linked_List/141.Linked-List-Cycle) (E)  
+[024.Swap-Nodes-in-Pairs](https://github.com/monster898/leetcode/tree/master/Linked_List/024.Swap-Nodes-in-Pairs) (M)  
 [025.Reverse-Nodes-In-k-Group](https://github.com/monster898/leetcode/tree/master/Linked_List/025.Reverse-Nodes-In-k-Group) (H)  
 [019.Remove-Nth-Node-From-End-of-List](https://github.com/monster898/leetcode/tree/master/Linked_List/019.Remove-Nth-Node-From-End-of-List) (M)
 
