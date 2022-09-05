@@ -87,7 +87,8 @@
    [739.Daily-Temperatures](https://github.com/monster898/leetcode/tree/master/Stack/739.Daily-Temperatures) (H-)
 
 - `parse expression`  
-  [071.Simplify-Path](https://github.com/monster898/leetcode/tree/master/Stack/071.Simplify-Path) (M)
+  [071.Simplify-Path](https://github.com/monster898/leetcode/tree/master/Stack/071.Simplify-Path) (M)  
+  [227.Basic-Calculator-II](https://github.com/monster898/leetcode/tree/master/Stack/227.Basic-Calculator-II) (H-)
 
 #### [Deque](https://github.com/monster898/leetcode/tree/master/Deque)
 
@@ -191,4 +192,5 @@
 [048.Rotate-Image](https://github.com/monster898/leetcode/tree/master/Others/048.Rotate-Image) (M+)  
 [54.Spiral-Matrix](https://github.com/monster898/leetcode/tree/master/Others/54.Spiral-Matrix) (M)  
 [59.Spiral-Matrix-II](https://github.com/monster898/leetcode/tree/master/Others/59.Spiral-Matrix-II) (M)  
-[1556.Thousand-Separator](https://github.com/monster898/leetcode/tree/master/Others/1556.Thousand-Separator) (E)
+[1556.Thousand-Separator](https://github.com/monster898/leetcode/tree/master/Others/1556.Thousand-Separator) (E)  
+[394.Decode-String](https://github.com/monster898/leetcode/tree/master/Others/394.Decode-String) (M)
