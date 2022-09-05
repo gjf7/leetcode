@@ -84,6 +84,7 @@
 - `montonic stack: next greater / smaller`  
    [042.Trapping-Rain-Water](https://github.com/monster898/leetcode/tree/master/Stack/042.Trapping-Rain-Water) (H)  
    [496.Next-Greater-Element-I](https://github.com/monster898/leetcode/tree/master/Stack/496.Next-Greater-Element-I) (H-)  
+   [503.Next-Greater-Element-II](https://github.com/monster898/leetcode/tree/master/Stack/503.Next-Greater-Element-II) (H-)  
    [739.Daily-Temperatures](https://github.com/monster898/leetcode/tree/master/Stack/739.Daily-Temperatures) (H-)
 
 - `parse expression`  
