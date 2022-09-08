@@ -58,7 +58,8 @@
 [199.Binary-Tree-Right-Side-View](https://github.com/monster898/leetcode/tree/master/Tree/199.Binary-Tree-Right-Side-View) (M)  
 [101.Symmetric-Tree](https://github.com/monster898/leetcode/tree/master/Tree/101.Symmetric-Tree) (E)  
 [572.Subtree-of-Another-Tree](https://github.com/monster898/leetcode/tree/master/Tree/572.Subtree-of-Another-Tree) (M)  
-[110.Balanced-Binary-Tree](https://github.com/monster898/leetcode/tree/master/Tree/110.Balanced-Binary-Tree) (E)
+[110.Balanced-Binary-Tree](https://github.com/monster898/leetcode/tree/master/Tree/110.Balanced-Binary-Tree) (E)  
+[543.Diameter-Of-Binary-Tree](https://github.com/monster898/leetcode/tree/master/Tree/543.Diameter-Of-Binary-Tree) (M)
 
 - `Path in a tree`  
   [124.Binary-Tree-Maximum-Path-Sum](https://github.com/monster898/leetcode/tree/master/Tree/124.Binary-Tree-Maximum-Path-Sum) (M)  
@@ -125,7 +126,8 @@
 [141.Linked-List-Cycle](https://github.com/monster898/leetcode/tree/master/Linked_List/141.Linked-List-Cycle) (E)  
 [024.Swap-Nodes-in-Pairs](https://github.com/monster898/leetcode/tree/master/Linked_List/024.Swap-Nodes-in-Pairs) (M)  
 [025.Reverse-Nodes-In-k-Group](https://github.com/monster898/leetcode/tree/master/Linked_List/025.Reverse-Nodes-In-k-Group) (H)  
-[019.Remove-Nth-Node-From-End-of-List](https://github.com/monster898/leetcode/tree/master/Linked_List/019.Remove-Nth-Node-From-End-of-List) (M)
+[019.Remove-Nth-Node-From-End-of-List](https://github.com/monster898/leetcode/tree/master/Linked_List/019.Remove-Nth-Node-From-End-of-List) (M)  
+[234.Palindrome-Linked-List](https://github.com/monster898/leetcode/tree/master/Linked_List/234.Palindrome-Linked-List) (M)
 
 #### [Dynamic Programming](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming)
 
