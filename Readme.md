@@ -106,6 +106,7 @@
 [494.Target-Sum](https://github.com/monster898/leetcode/tree/master/DFS/494.Target-Sum) (M)  
 [695.Max-Area-of-Island](https://github.com/monster898/leetcode/tree/master/DFS/695.Max-Area-of-Island) (M)  
 [093.Restore-Ip-Addresses](https://github.com/monster898/leetcode/tree/master/DFS/093.Restore-Ip-Addresses) (M)  
+[039.Combination-Sum](https://github.com/monster898/leetcode/tree/master/DFS/039.Combination-Sum) (M)  
 [040.Combination-Sum-II](https://github.com/monster898/leetcode/tree/master/DFS/040.Combination-Sum-II) (M+)  
 [047.Permutations-II](https://github.com/monster898/leetcode/tree/master/DFS/047.Permutations-II) (M+)  
 [078.Subsets](https://github.com/monster898/leetcode/tree/master/DFS/078.Subsets) (M)
