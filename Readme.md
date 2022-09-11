@@ -151,6 +151,7 @@
 
 - `maximum subarray`  
   [053.Maximum-Subarray](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/053.Maximum-Subarray) (M)  
+  [152.Maximum-Product-Subarray](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/152.Maximum-Product-Subarray) (M+)  
   [121.Best-Time-To-Buy-And-Sell-Stock](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/121.Best-Time-To-Buy-And-Sell-Stock) (M)
 
 #### [Bit Manipulation](https://github.com/monster898/leetcode/tree/master/Bit_Manipulation)
