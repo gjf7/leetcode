@@ -178,6 +178,7 @@
 #### [Math](https://github.com/monster898/leetcode/tree/master/Math)
 
 [002.Add-Two-Numbers](https://github.com/monster898/leetcode/tree/master/Math/002.Add-Two-Numbers) (M)  
+[007.Reverse-Integer](https://github.com/monster898/leetcode/tree/master/Math/007.Reverse-Integer) (M)  
 [415.Add-Strings](https://github.com/monster898/leetcode/tree/master/Math/415.Add-Strings) (E)  
 [043.Multiply-Strings](https://github.com/monster898/leetcode/tree/master/Math/043.Multiply-Strings) (M)  
 [089.Gray-Code](https://github.com/monster898/leetcode/tree/master/Math089.Gray-Code) (M+)
