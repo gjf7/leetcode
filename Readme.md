@@ -27,7 +27,8 @@
 [069.Sqrtx](https://github.com/monster898/leetcode/tree/master/Binary_Search/069.Sqrtx) (E)  
 [081.Search-in-Rotated-Sorted-Array-II](https://github.com/monster898/leetcode/tree/master/Binary_Search/081.Search-in-Rotated-Sorted-Array-II) (M)  
 [162.Find-Peak-Element](https://github.com/monster898/leetcode/tree/master/Binary_Search/162.Find-Peak-Element) (H)  
-[852.Peak-Index-In-a-Mountain-Array](https://github.com/monster898/leetcode/tree/master/Binary_Search/852.Peak-Index-In-a-Mountain-Array) (H)
+[852.Peak-Index-In-a-Mountain-Array](https://github.com/monster898/leetcode/tree/master/Binary_Search/852.Peak-Index-In-a-Mountain-Array) (H)  
+[035.Search-Insert-Position](https://github.com/monster898/leetcode/tree/master/Binary_Search/035.Search-Insert-Position) (E)
 
 - `Binary Processing`
 
