@@ -182,6 +182,7 @@
 [007.Reverse-Integer](https://github.com/monster898/leetcode/tree/master/Math/007.Reverse-Integer) (M)  
 [415.Add-Strings](https://github.com/monster898/leetcode/tree/master/Math/415.Add-Strings) (E)  
 [043.Multiply-Strings](https://github.com/monster898/leetcode/tree/master/Math/043.Multiply-Strings) (M)  
+[050.Powx-n](https://github.com/monster898/leetcode/tree/master/Math/050.Powx-n) (M)  
 [089.Gray-Code](https://github.com/monster898/leetcode/tree/master/Math089.Gray-Code) (M+)
 
 - `Combinatorics`  
