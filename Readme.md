@@ -128,7 +128,8 @@
 [024.Swap-Nodes-in-Pairs](https://github.com/monster898/leetcode/tree/master/Linked_List/024.Swap-Nodes-in-Pairs) (M)  
 [025.Reverse-Nodes-In-k-Group](https://github.com/monster898/leetcode/tree/master/Linked_List/025.Reverse-Nodes-In-k-Group) (H)  
 [019.Remove-Nth-Node-From-End-of-List](https://github.com/monster898/leetcode/tree/master/Linked_List/019.Remove-Nth-Node-From-End-of-List) (M)  
-[234.Palindrome-Linked-List](https://github.com/monster898/leetcode/tree/master/Linked_List/234.Palindrome-Linked-List) (M)
+[234.Palindrome-Linked-List](https://github.com/monster898/leetcode/tree/master/Linked_List/234.Palindrome-Linked-List) (M)  
+[148.Sort-List](https://github.com/monster898/leetcode/tree/master/Linked_List/148.Sort-List) (M)
 
 #### [Dynamic Programming](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming)
 
