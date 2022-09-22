@@ -83,7 +83,8 @@
 [020.Valid-Parentheses](https://github.com/monster898/leetcode/tree/master/Stack/020.Valid-Parentheses) (E)  
 [032.Longest-Valid-Parentheses](https://github.com/monster898/leetcode/tree/master/Stack/032.Longest-Valid-Parentheses) (H)  
 [636.Exclusive-Time-of-Functions](https://github.com/monster898/leetcode/tree/master/Stack/636.Exclusive-Time-of-Functions) (H-)  
-[155.Min-Stack](https://github.com/monster898/leetcode/tree/master/Stack/155.Min-Stack) (M+)
+[155.Min-Stack](https://github.com/monster898/leetcode/tree/master/Stack/155.Min-Stack) (M+)  
+[225.Implement-Stack-using-Queues](https://github.com/monster898/leetcode/tree/master/Stack/225.Implement-Stack-using-Queues) (H-)  
 [232.Implement-Queue-Using-Stacks](https://github.com/monster898/leetcode/tree/master/Stack/232.Implement-Queue-Using-Stacks) (H-)
 
 - `montonic stack: next greater / smaller`  
