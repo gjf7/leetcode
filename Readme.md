@@ -168,6 +168,7 @@
 
 [647.Palindromic-Substrings](https://github.com/monster898/leetcode/tree/master/String/647.Palindromic-Substrings) (M)  
 [005.Longest-Palindromic-Substring](https://github.com/monster898/leetcode/tree/master/String/005.Longest-Palindromic-Substring) (H)
+[1556.Thousand-Separator](https://github.com/monster898/leetcode/tree/master/String/1556.Thousand-Separator) (E)  
 
 #### [Union Find](https://github.com/monster898/leetcode/tree/master/Union_Find)
 
@@ -209,5 +210,4 @@
 [048.Rotate-Image](https://github.com/monster898/leetcode/tree/master/Others/048.Rotate-Image) (M+)  
 [54.Spiral-Matrix](https://github.com/monster898/leetcode/tree/master/Others/54.Spiral-Matrix) (M)  
 [59.Spiral-Matrix-II](https://github.com/monster898/leetcode/tree/master/Others/59.Spiral-Matrix-II) (M)  
-[1556.Thousand-Separator](https://github.com/monster898/leetcode/tree/master/Others/1556.Thousand-Separator) (E)  
 [394.Decode-String](https://github.com/monster898/leetcode/tree/master/Others/394.Decode-String) (M)
