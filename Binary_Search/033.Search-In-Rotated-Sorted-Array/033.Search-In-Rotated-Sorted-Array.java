@@ -1,6 +1,5 @@
 class Solution {
     public int search(int[] nums, int target) {
-        // find rotation point
         int low = 0;
         int high = nums.length - 1;
         while (low < high) {

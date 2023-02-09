@@ -1,5 +1,4 @@
 function search(nums: number[], target: number): number {
-  // find the rotation point
   let low = 0;
   let high = nums.length - 1;
   while (low < high) {
