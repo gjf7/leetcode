@@ -54,7 +54,6 @@
 [222.Count-Complete-Tree-Nodes](https://github.com/monster898/leetcode/tree/master/Tree/222.Count-Complete-Tree-Nodes) (M+)  
 [099.Recover-Binary-Search-Tree](https://github.com/monster898/leetcode/tree/master/Tree/099.Recover-Binary-Search-Tree) (H)  
 [1373.Maximum-Sum-Bst-in-Binary-Tree](https://github.com/monster898/leetcode/tree/master/Tree/1373.Maximum-Sum-Bst-in-Binary-Tree) (H)  
-[BS587.Tree-Sum-Count](https://github.com/monster898/leetcode/tree/master/Tree/BS587.Tree-Sum-Count) (M)  
 [102.Binary-Tree-Level-Order-Traversal](https://github.com/monster898/leetcode/tree/master/Tree/102.Binary-Tree-Level-Order-Traversal) (M)  
 [129.Sum-Root-to-Leaf-Numbers](https://github.com/monster898/leetcode/tree/master/Tree/129.Sum-Root-to-Leaf-Numbers) (E)  
 [199.Binary-Tree-Right-Side-View](https://github.com/monster898/leetcode/tree/master/Tree/199.Binary-Tree-Right-Side-View) (M)  
@@ -168,7 +167,7 @@
 
 [647.Palindromic-Substrings](https://github.com/monster898/leetcode/tree/master/String/647.Palindromic-Substrings) (M)  
 [005.Longest-Palindromic-Substring](https://github.com/monster898/leetcode/tree/master/String/005.Longest-Palindromic-Substring) (H)
-[1556.Thousand-Separator](https://github.com/monster898/leetcode/tree/master/String/1556.Thousand-Separator) (E)  
+[1556.Thousand-Separator](https://github.com/monster898/leetcode/tree/master/String/1556.Thousand-Separator) (E)
 
 #### [Union Find](https://github.com/monster898/leetcode/tree/master/Union_Find)
 
