@@ -137,6 +137,7 @@
 [062.Unique-Paths](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/062.Unique-Paths) (E)  
 [063.Unique-Paths-II](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/063.Unique-Paths-II) (M)  
 [064.Minimum-Path-Sum](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/064.Minimum-Path-Sum) (M)
+[070.Climbing-Stairs](https://github.com/monster898/leetcode/tree/master/Dynamic_Programming/070.Climbing-Stairs) (E)
 
 - `基本型I`
 
