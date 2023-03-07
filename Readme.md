@@ -165,8 +165,9 @@
 
 #### [String](https://github.com/monster898/leetcode/tree/master/String)
 
-[647.Palindromic-Substrings](https://github.com/monster898/leetcode/tree/master/String/647.Palindromic-Substrings) (M)  
 [005.Longest-Palindromic-Substring](https://github.com/monster898/leetcode/tree/master/String/005.Longest-Palindromic-Substring) (H)
+[014.Longest-Common-Prefix](https://github.com/monster898/leetcode/tree/master/String/014.Longest-Common-Prefix) (E)
+[647.Palindromic-Substrings](https://github.com/monster898/leetcode/tree/master/String/647.Palindromic-Substrings) (M)  
 [1556.Thousand-Separator](https://github.com/monster898/leetcode/tree/master/String/1556.Thousand-Separator) (E)
 
 #### [Union Find](https://github.com/monster898/leetcode/tree/master/Union_Find)
