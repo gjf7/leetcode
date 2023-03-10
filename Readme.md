@@ -14,6 +14,7 @@
   [209.Minimum-Size-Subarray-Sum](https://github.com/monster898/leetcode/tree/master/Two_Pointers/209.Minimum-Size-Subarray-Sum) (M)
   [438.Find-All-Anagrams-In-a-String](https://github.com/monster898/leetcode/tree/master/Two_Pointers/438.Find-All-Anagrams-In-a-String) (M)  
   [567.Permutation-in-String](https://github.com/monster898/leetcode/tree/master/Two_Pointers/567.Permutation-in-String) (M)
+  [LCOF57.和为 s 的连续正数序列](https://github.com/monster898/leetcode/tree/master/Two_Pointers/LCOF57.和为s的连续正数序列) (M-)
 
 - `Sliding window: Distinct Characters`  
   [003.Longest-Substring-Without-Repeating-Character](https://github.com/monster898/leetcode/tree/master/Two_Pointers/003.Longest-Substring-Without-Repeating-Character) (M)
