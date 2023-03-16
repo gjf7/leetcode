@@ -199,7 +199,8 @@
 
 [055.Jump-Game](https://github.com/monster898/leetcode/tree/master/Greedy/055.Jump-Game) (M)  
 [054.Jump-Game-II](https://github.com/monster898/leetcode/tree/master/Greedy/054.Jump-Game-II) (M)  
-[455.Assign-Cookies](https://github.com/monster898/leetcode/tree/master/Greedy/455.Assign-Cookies) (E)
+[455.Assign-Cookies](https://github.com/monster898/leetcode/tree/master/Greedy/455.Assign-Cookies) (E)  
+[135.Candy](https://github.com/monster898/leetcode/tree/master/Greedy/135.Candy) (H)
 
 - `Parenthesis`  
   [921.Minimum-Add-To-Make-Parentheses-Valid](https://github/monster898/leetcode/tree/master/Greedy/921.Minimum-Add-To-Make-Parentheses-Valid) (M)
