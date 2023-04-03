@@ -8,7 +8,8 @@
 [018.4Sum](https://github.com/monster898/leetcode/tree/master/Two_Pointers/018.4Sum) (M)  
 [088.Merge-Sorted-Array](https://github.com/monster898/leetcode/tree/master/Two_Pointers/088.Merge-Sorted-Array) (M)  
 [165.Compare-Version-Numbers](https://github.com/monster898/leetcode/tree/master/Two_Pointers/165.Compare-Version-Numbers) (E)  
-[056.Merge-Intervals](https://github.com/monster898/leetcode/tree/master/Two_Pointers/056.Merge-Intervals) (M)
+[056.Merge-Intervals](https://github.com/monster898/leetcode/tree/master/Two_Pointers/056.Merge-Intervals) (M) 
+[167.Two-Sum-II-Input-Array-Is-Sorted](https://github.com/monster898/leetcode/tree/master/Two_Pointers/167.Two-Sum-II-Input-Array-Is-Sorted) (E) 
 
 - `Sliding window`  
   [209.Minimum-Size-Subarray-Sum](https://github.com/monster898/leetcode/tree/master/Two_Pointers/209.Minimum-Size-Subarray-Sum) (M)  
