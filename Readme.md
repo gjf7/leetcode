@@ -8,15 +8,16 @@
 [018.4Sum](https://github.com/monster898/leetcode/tree/master/Two_Pointers/018.4Sum) (M)  
 [088.Merge-Sorted-Array](https://github.com/monster898/leetcode/tree/master/Two_Pointers/088.Merge-Sorted-Array) (M)  
 [165.Compare-Version-Numbers](https://github.com/monster898/leetcode/tree/master/Two_Pointers/165.Compare-Version-Numbers) (E)  
-[056.Merge-Intervals](https://github.com/monster898/leetcode/tree/master/Two_Pointers/056.Merge-Intervals) (M) 
-[167.Two-Sum-II-Input-Array-Is-Sorted](https://github.com/monster898/leetcode/tree/master/Two_Pointers/167.Two-Sum-II-Input-Array-Is-Sorted) (E) 
-[142.Linked-List-Cycle-II](https://github.com/monster898/leetcode/tree/master/Two_Pointers/142.Linked-List-Cycle-II) (M)  
+[056.Merge-Intervals](https://github.com/monster898/leetcode/tree/master/Two_Pointers/056.Merge-Intervals) (M)
+[167.Two-Sum-II-Input-Array-Is-Sorted](https://github.com/monster898/leetcode/tree/master/Two_Pointers/167.Two-Sum-II-Input-Array-Is-Sorted) (E)
+[142.Linked-List-Cycle-II](https://github.com/monster898/leetcode/tree/master/Two_Pointers/142.Linked-List-Cycle-II) (M)
 
 - `Sliding window`  
   [209.Minimum-Size-Subarray-Sum](https://github.com/monster898/leetcode/tree/master/Two_Pointers/209.Minimum-Size-Subarray-Sum) (M)  
   [438.Find-All-Anagrams-In-a-String](https://github.com/monster898/leetcode/tree/master/Two_Pointers/438.Find-All-Anagrams-In-a-String) (M)  
   [567.Permutation-in-String](https://github.com/monster898/leetcode/tree/master/Two_Pointers/567.Permutation-in-String) (M)  
-  [LCOF57.和为 s 的连续正数序列](https://github.com/monster898/leetcode/tree/master/Two_Pointers/LCOF57.和为s的连续正数序列) (M-)
+  [LCOF57.和为 s 的连续正数序列](https://github.com/monster898/leetcode/tree/master/Two_Pointers/LCOF57.和为s的连续正数序列) (M-)  
+  [076.Minimum-Window-Substring](https://github.com/monster898/leetcode/tree/master/Two_Pointers/076.Minimum-Window-Substring) (H)
 
 - `Sliding window: Distinct Characters`  
   [003.Longest-Substring-Without-Repeating-Character](https://github.com/monster898/leetcode/tree/master/Two_Pointers/003.Longest-Substring-Without-Repeating-Character) (M)
@@ -202,14 +203,14 @@
 
 [055.Jump-Game](https://github.com/monster898/leetcode/tree/master/Greedy/055.Jump-Game) (M)  
 [045.Jump-Game-II](https://github.com/monster898/leetcode/tree/master/Greedy/045.Jump-Game-II) (M)  
-[455.Assign-Cookies](https://github.com/monster898/leetcode/tree/master/Greedy/455.Assign-Cookies) (E) 
+[455.Assign-Cookies](https://github.com/monster898/leetcode/tree/master/Greedy/455.Assign-Cookies) (E)  
 [135.Candy](https://github.com/monster898/leetcode/tree/master/Greedy/135.Candy) (H)  
 [435.Non-overlapping-Intervals](https://github.com/monster898/leetcode/tree/master/Greedy/435.Non-overlapping-Intervals) (M+)  
 [452.Minimum-Number-of-Arrows-to-Burst-Balloons](https://github.com/monster898/leetcode/tree/master/Greedy/452.Minimum-Number-of-Arrows-to-Burst-Balloons) (M)  
 [605.Can-Place-Flowers](https://github.com/monster898/leetcode/tree/master/Greedy/605.Can-Place-Flowers) (E+)  
 [763.Partition-Labels](https://github.com/monster898/leetcode/tree/master/Greedy/763.Partition-Labels) (M)  
 [406.Queue-Reconstruction-by-Height](https://github.com/monster898/leetcode/tree/master/Greedy/406.Queue-Reconstruction-by-Height) (M)  
-[665.Non-decreasing-Array](https://github.com/monster898/leetcode/tree/master/Greedy/665.Non-decreasing-Array) (M+)  
+[665.Non-decreasing-Array](https://github.com/monster898/leetcode/tree/master/Greedy/665.Non-decreasing-Array) (M+)
 
 - `Parenthesis`  
   [921.Minimum-Add-To-Make-Parentheses-Valid](https://github/monster898/leetcode/tree/master/Greedy/921.Minimum-Add-To-Make-Parentheses-Valid) (M)
