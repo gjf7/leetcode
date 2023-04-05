@@ -13,12 +13,10 @@ class Solution:
                 return True
             
             if (nums[middle] >= nums[0]) == (target >= nums[0]):
-                print(left, right)
                 if nums[middle] > target:
                     right = middle - 1
                 else:
                     left = middle + 1
-                print(left, right)
             elif nums[middle] >= nums[0]:
                 left = middle + 1
             else:
