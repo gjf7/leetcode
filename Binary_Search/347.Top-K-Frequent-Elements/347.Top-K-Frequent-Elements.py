@@ -1,8 +1,6 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        notebook = {}
-        for num in nums:
-            notebook[num] = notebook.setdefault(num, 0) + 1
+        notebook = dict(Counter(nums))
         # 找到第 K 个的元素的频率到底是多少
         left = 0
         right = len(nums)
