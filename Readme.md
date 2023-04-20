@@ -121,7 +121,8 @@
 [078.Subsets](https://github.com/monster898/leetcode/tree/master/DFS/078.Subsets) (M)  
 [417.Pacific-Atlantic-Water-Flow](https://github.com/monster898/leetcode/tree/master/DFS) (M+)
 
-#### [BFS](https://github.com/monster898/leetcode/tree/master/BFS)
+#### [BFS](https://github.com/monster898/leetcode/tree/master/BFS)  
+[934.Shortest-Bridge](https://github.com/monster898/leetcode/tree/master/BFS/934.Shortest-Bridge) (M)  
 
 #### [Trie](https://github.com/monster898/leetcode/tree/master/Trie)
 
