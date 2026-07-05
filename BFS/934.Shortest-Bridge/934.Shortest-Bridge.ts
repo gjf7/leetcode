@@ -1,5 +1,5 @@
 function shortestBridge(grid: number[][]): number {
-  const m = grid.length
+  const m = grid.length;
   const n = grid[0].length;
   const queue: [number, number][] = [];
   const directions = [[1, 0], [-1, 0], [0, 1], [0, -1]];
